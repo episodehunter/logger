@@ -1,3 +1,5 @@
+See: https://github.com/episodehunter/episodehunter/tree/master/packages/logger
+
 ## Logger for episodehunter
 
 A simple wrapper for the sentry and logdna clients.
